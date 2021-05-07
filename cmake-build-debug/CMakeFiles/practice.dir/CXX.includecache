@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/heisenbergliu/CLionProjects/practice/src/ChangSkipList.cpp
+iostream
+-
+ChangSkipList.h
+/Users/heisenbergliu/CLionProjects/practice/src/ChangSkipList.h
+
+/Users/heisenbergliu/CLionProjects/practice/src/ChangSkipList.h
+vector
+-
+
